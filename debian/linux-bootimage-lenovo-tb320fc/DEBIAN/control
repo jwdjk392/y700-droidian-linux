@@ -1,0 +1,13 @@
+Package: linux-bootimage-lenovo-tb320fc
+Source: linux-android-lenovo-tb320fc
+Version: 0.0.0+git20260901165841.b5ed646.droidian
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 7
+Depends: linux-bootimage-5.10.264-lenovo-tb320fc (= 0.0.0+git20260901165841.b5ed646.droidian)
+Section: kernel
+Priority: optional
+Description: Linux kernel for Lenovo Legion Tab 2023 - Android Boot Image  (latest)
+ This package depends to the latest kernel bootimage available for the Lenovo Legion Tab 2023.
+X-Droidian-Vcs-Revision: b5ed64651ffcb8f3094d5b6356f6e3c43271856d
+X-Droidian-Vcs-Url: https://android.googlesource.com/kernel/common

@@ -1,0 +1,6 @@
+linux-android-lenovo-tb320fc (0.0.0+git20260901165841.b5ed646.droidian) trixie; urgency=medium
+
+  * UPSTREAM: HID: magicmouse: Prevent out-of-bounds (OOB) read during DOUBLE_REPORT_ID
+
+ -- Lee Jones <lee@kernel.org>  Tue, 01 Sep 2026 17:58:41 +0100
+

@@ -1,0 +1,5 @@
+bc5dbd7547fb62ff1e02fe484b5b8a69  boot/boot.img-5.10.264-lenovo-tb320fc
+b99e84c4942cafcc420ccdc1348f1d9e  boot/recovery.img-5.10.264-lenovo-tb320fc
+317b0cf81a1237f454c15b90344d839a  boot/vbmeta.img-5.10.264-lenovo-tb320fc
+8e378100652f82054090bf213b90c73b  lib/flash-bootimage/5.10.264-lenovo-tb320fc.conf
+7369038ab7315fe850280f5c2ef5d58c  usr/share/doc/linux-bootimage-5.10.264-lenovo-tb320fc/changelog.gz
